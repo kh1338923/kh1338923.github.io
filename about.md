@@ -2,8 +2,8 @@
 
 Hello! I am Nay.
 
-Write a short paragraph about your interests, skills, or goals.
 Things that interest me are doing a kind of sport each year like dancing or basketball. Also more of of my interesting interest are Sketching, culinary, and journaling.   
+
 ## Navigation
 
 [Notebook](notebook.md)
